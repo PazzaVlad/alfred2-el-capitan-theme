@@ -8,4 +8,4 @@ This how light version is looks like:
 This how dark version is looks like:
 ![Dark theme El Capitan for Alfred 2](http://i.imgur.com/JstMJkh.jpg)
 
-###[Download](https://github.com/PazzaVlad/alfred2-el-capitan-theme/releases)
+### [Download](https://github.com/PazzaVlad/alfred2-el-capitan-theme/releases)
